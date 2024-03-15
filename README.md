@@ -45,9 +45,9 @@ admin.site.register(Book,BookAdmin)
 ```
 
 ## OUTPUT
-![alt text](<WEB APP.png>)
+![alt text](<web application2.png>)
 
 
 
 ## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+Thus the program for creating a database using ORM has been executed successfully
